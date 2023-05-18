@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alindafortunate
-- 👀 I’m interested in programming languages (Kotlin, Java and C++)
-- 🌱 I’m currently learning Kotlin programming and C++
+- 👀 I’m interested in programming languages (Python as my primary language)
+- 🌱 I’m currently learning Python, Django, Html for Backend development
 - 💞️ I’m looking to collaborate on with any one willing to share knowledge
 - 📫 How to reach me just email me (alindafortunate5@gmail.com)
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alindafortunate currently working on the backend of a riding app.
+- 👋 Hi, I’m Alinda Fortunate currently working on the backend of a riding app.
 - 👀 I’m interested in programming languages (Python as my primary language)
 - 🌱 I’m currently learning Python, Django and Django restframework for Backend development.
 - 💞️ I’m looking to collaborate on with any one willing to share knowledge

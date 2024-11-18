@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Alinda Fortunate currently working on the backend of a riding app.
-- 👀 I’m interested in programming languages (Python as my primary language)
-- 🌱 I’m currently learning Python, Django and Django restframework for Backend development.
-- 💞️ I’m looking to collaborate on with any one willing to share knowledge
+- 👋 Hi, I’m Alinda Fortunate currently pursuing a Backend Web Development Course with ALX Africa.
+- 👀 I’m interested in developing solutions for community transformation and make this world a better place.
+- 💞️ I’m looking to collaborate with any one willing to share knowledge
 - 📫 How to reach me just email me (alindafortunate5@gmail.com)
 
 <!---

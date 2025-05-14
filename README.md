@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alinda Fortunate currently pursuing a Backend Web Development Course with ALX Africa.
+- 👋 Hi, I’m Alinda Fortunate a Cohort 4 graduate of the Backend Web Development Course with ALX Africa.
 - 👀 I’m interested in developing solutions for community transformation and make this world a better place.
 - 💞️ I’m looking to collaborate with any one willing to share knowledge
-- 📫 How to reach me just email me (alindafortunate5@gmail.com)
+- 📫 How to reach me, just email me (alindafortunate5@gmail.com)
 
 <!---
 alindafortunate/alindafortunate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
